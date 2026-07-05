@@ -1,0 +1,23 @@
+{
+  "name": "Agrobank",
+  "label": "Agrobank",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Agrobank",
+  "description": "Agricultural monitoring dashboard with map, field analytics, and crop index charts.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "dependency": "jimu-arcgis",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 1400,
+    "height": 900
+  }
+}
