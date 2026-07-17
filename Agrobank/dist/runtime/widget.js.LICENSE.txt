@@ -5,7 +5,7 @@
 * All rights reserved.
 *
 * LICENSE
-* https://github.com/ecomfe/zrender/blob/master/LICENSE.txt
+* https://github.com/ecomfe/zrender/blob/master/LICENSE
 */
 
 /*! *****************************************************************************
@@ -24,7 +24,7 @@ PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
 /**
- * @license lucide-react v0.469.0 - ISC
+ * @license lucide-react v1.18.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
