@@ -13,6 +13,20 @@
     "hasSettingPage": true,
     "hasStyle": false
   },
+  "urlParameters": [
+    {
+      "name": "inn",
+      "label": "INN"
+    },
+    {
+      "name": "regionId",
+      "label": "Region ID"
+    },
+    {
+      "name": "districtId",
+      "label": "District ID"
+    }
+  ],
   "translatedLocales": [
     "en",
     "ru"
