@@ -17,7 +17,7 @@ https://github.com/nodeca/pako/blob/main/LICENSE
 * All rights reserved.
 *
 * LICENSE
-* https://github.com/ecomfe/zrender/blob/master/LICENSE
+* https://github.com/ecomfe/zrender/blob/master/LICENSE.txt
 */
 
 /*! *****************************************************************************
@@ -36,7 +36,7 @@ PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
 /**
- * @license lucide-react v0.575.0 - ISC
+ * @license lucide-react v0.469.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
