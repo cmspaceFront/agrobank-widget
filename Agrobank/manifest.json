@@ -5,7 +5,7 @@
   "version": "1.14.0",
   "exbVersion": "1.14.0",
   "author": "Agrobank",
-  "description": "Agricultural monitoring dashboard with map, field analytics, and crop index charts. build-marker-2026-09-10",
+  "description": "Agricultural monitoring dashboard with map, field analytics, and crop index charts. build-marker-2026-09-18",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "dependency": "jimu-arcgis",
